@@ -1,1 +1,8 @@
 D:\SoftwareProjects\PictureSort\PictureSort\bin\Debug\PictureSort.exe.config
+D:\SoftwareProjects\PictureSort\PictureSort\bin\Debug\PictureSort.exe
+D:\SoftwareProjects\PictureSort\PictureSort\bin\Debug\PictureSort.pdb
+D:\SoftwareProjects\PictureSort\PictureSort\obj\Debug\PictureSort.csprojResolveAssemblyReference.cache
+D:\SoftwareProjects\PictureSort\PictureSort\obj\Debug\PictureSort.exe
+D:\SoftwareProjects\PictureSort\PictureSort\obj\Debug\PictureSort.pdb
+D:\SoftwareProjects\PictureSort\PictureSort\obj\Debug\Interop.Shell32.dll
+D:\SoftwareProjects\PictureSort\PictureSort\obj\Debug\PictureSort.csproj.ResolveComReference.cache
